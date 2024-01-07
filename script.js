@@ -7,7 +7,8 @@ const chatbotCloseBtn=document.querySelector(".close-btn");
 let userMessage;
 //const APT_KEY="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";
 // const APT_KEY="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";
-const APT_KEY="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";
+//const APT_KEY="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";
+const API_KEY="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";
 const inputIniHeight=chatInput.scrollHeight;
 
 const createChatLi=(message,className)=>{
